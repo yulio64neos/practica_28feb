@@ -1,6 +1,6 @@
 <template>
   <v-container>
-      <p>HelloWorld</p> 
+      <p>Prueba con el formulario</p> 
       <v-form>
 
       </v-form>
